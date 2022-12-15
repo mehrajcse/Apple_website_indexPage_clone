@@ -1,0 +1,135 @@
+.body { background-color: red; } 
+
+
+.header{
+	background-color: #333333;
+	text-align: center;
+	margin-left: -10px;
+	margin-right: -0px;
+	padding-top: 5px;
+	padding-bottom: 2px;
+	position: fixed;
+	width: 100%;
+	z-index: 9999;
+
+}
+hr{
+		border:1px solid silver;
+	}
+
+.container{
+		padding-right: 200px;
+		padding-left: 200px;
+	}
+ul li{
+	display: inline;
+}
+ul li a{
+	text-decoration: none;
+	color:  #bfbfbf;
+	font-size: 15px;
+	padding-right: 40px;
+	font-family: Arial;
+
+}
+ul li a:hover{
+	color: white;
+	text-decoration: none;
+}
+
+.footer{
+	background-color: #f2f2f2;
+
+}
+
+#bottom a{
+	color: #515154;
+}	
+
+
+
+
+
+
+
+#start{
+	color: #86868b;
+}
+#more{
+	color: #86868b;
+}
+#bottom{
+	color: #86868b;
+}
+.menus a{
+	color: #515154;
+}
+.menu p{
+	padding-top: 20px;
+}
+
+.slider{
+	background-color: black;
+	text-align: center;
+}
+#logo{
+	font-size: 38px;
+	color: white;
+}
+.iPad{
+	background-color: #fbfbfd;
+	text-align: center;
+	margin-bottom: 2px;
+	margin-top: 2px;
+	padding-bottom: 30px;
+}
+#se{
+	font-size: 30px;
+	color:#1d1d1f;
+}
+.watch{
+	background-color: #fbfbfd;
+	text-align: center;
+	margin-bottom: 5px;
+	padding-bottom: 30px;
+}
+#comming{
+	text-align: center;
+	padding-top:5px;
+	background-color: white;
+}
+#columnone{
+	background-color: #fbfbfd;
+	padding: 10px;
+	border:5px solid white;
+	height: 450px;
+
+}
+#columntwo{
+	background-color: #fbfbfd;
+	padding: 10px;
+	border:5px solid white;
+	height: 450px;
+	
+}
+
+/* #threepart{
+	text-align: center;
+	padding-top:5px;
+	background-color: white;
+}
+#thirdpart{
+	background-image: url(../photos/pic.jpg);
+	padding: 10px;
+	border:5px solid white;
+	height: 450px;
+
+}
+#fourthpart{
+	background-color: #fbfbfd;
+	padding: 10px;
+	border:5px solid white;
+	height: 450px;
+	
+} */
+
